@@ -1,7 +1,7 @@
 {
   "name": "acacha-helloworld-package",
   "version": "2.0.0",
-  "description": "",
+  "description": "# Install",
   "main": "src/index.js",
   "directories": {
     "test": "tests"
@@ -13,5 +13,13 @@
     "hello"
   ],
   "author": "Sergi Tur Badenas <sergiturbadenas@gmail.com> (http://acacha.org)",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acacha/NPMHelloWorldPackage.git"
+  },
+  "bugs": {
+    "url": "https://github.com/acacha/NPMHelloWorldPackage/issues"
+  },
+  "homepage": "https://github.com/acacha/NPMHelloWorldPackage#readme"
 }
